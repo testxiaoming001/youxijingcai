@@ -1,0 +1,7 @@
+runtime/
+.idea/
+config/app.php
+public/test.log
+public/game.log
+test.log
+nohup.out
